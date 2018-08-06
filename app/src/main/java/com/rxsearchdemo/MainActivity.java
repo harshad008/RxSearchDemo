@@ -81,7 +81,6 @@ public class MainActivity extends AppCompatActivity {
     private void getHistoryData(String search) {
         try {
             //handle api call and update data here
-            //check commit
             ReminderHistoryRequest historyRequest = new ReminderHistoryRequest();
             historyRequest.setUserId("4");
             historyRequest.setSearch(search);
