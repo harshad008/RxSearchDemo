@@ -1,2 +1,0 @@
-# RxSearchDemo
-RxSearchDemo
